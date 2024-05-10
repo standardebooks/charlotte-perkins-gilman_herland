@@ -55,7 +55,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/011719932</dc:source>
 		<meta property="se:production-notes">Several chapters begin with a brief synopsis in the page scans. These are omitted in the Gutenberg version, and here as well, given that they are meant for readers encountering the story in serialized form.</meta>
 		<meta property="se:word-count">53662</meta>
-		<meta property="se:reading-ease.flesch">71.44</meta>
+		<meta property="se:reading-ease.flesch">71.55</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Herland_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/charlotte-perkins-gilman_herland</meta>
 		<dc:creator id="author">Charlotte Perkins Gilman</dc:creator>
