@@ -1,0 +1,1 @@
+Several chapters begin with a brief synopsis in the page scans. These are omitted in the Gutenberg version, and here as well, given that they are meant for readers encountering the story in serialized form.
