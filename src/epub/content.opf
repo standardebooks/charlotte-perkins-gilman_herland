@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/charlotte-perkins-gilman/herland</dc:identifier>
 		<dc:date>2020-06-01T01:09:43Z</dc:date>
@@ -46,12 +46,12 @@
 		<meta id="collection-1" property="belongs-to-collection">Utopian Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:description id="description">Three male explorers trek into a mysterious civilization populated entirely by women.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>Three male explorers trek into a mysterious civilization populated entirely by women.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Three male explorers set out to reach a legendary land where only women live, and find—to their surprise—that the legends are true. This country hidden in the mountains is a feminist utopia. There are no men, nor is there war, poverty, or crime. The residents subsist on food from cultivated forests, maintain immaculate houses and roads, and reproduce asexually through parthenogenesis. Although the main characters are men, their role is to show us how their notions about society and womanhood are humorously upturned.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charlotte-perkins-gilman"&gt;Charlotte Perkins Gilman&lt;/a&gt; was an outspoken activist and suffragist, most famous nowadays for her short story “The Yellow Wallpaper.” As a writer, she was stunningly prolific. She founded &lt;i&gt;The Forerunner&lt;/i&gt;, a monthly magazine for which she personally wrote every article, story, and poem. Because she chose to run no advertisements, she covered the cost of printing the magazine herself. In contrast to many women’s publications of the day, Gilman advocated for equal rights and expanded social roles for women.&lt;/p&gt;
 			&lt;p&gt;Originally published serially in &lt;i&gt;The Forerunner&lt;/i&gt; in 1915, &lt;i&gt;Herland&lt;/i&gt; was not republished as a standalone work until decades later. It is the second in Gilman’s &lt;a href="https://standardebooks.org/collections/utopian-trilogy"&gt;Utopian trilogy&lt;/a&gt;, along with &lt;i&gt;Moving the Mountain&lt;/i&gt; and &lt;i&gt;With Her in Ourland&lt;/i&gt;.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/32</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/011719932</dc:source>
