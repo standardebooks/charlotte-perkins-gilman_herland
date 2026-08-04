@@ -46,7 +46,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Utopian Trilogy</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">2</meta>
-		<dc:abstract>Three male explorers trek into a mysterious civilization populated entirely by women.</dc:abstract>
+		<meta property="schema:abstract">Three male explorers trek into a mysterious civilization populated entirely by women.</meta>
 		<dc:description>
 			&lt;p&gt;Three male explorers set out to reach a legendary land where only women live, and find—to their surprise—that the legends are true. This country hidden in the mountains is a feminist utopia. There are no men, nor is there war, poverty, or crime. The residents subsist on food from cultivated forests, maintain immaculate houses and roads, and reproduce asexually through parthenogenesis. Although the main characters are men, their role is to show us how their notions about society and womanhood are humorously upturned.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/charlotte-perkins-gilman"&gt;Charlotte Perkins Gilman&lt;/a&gt; was an outspoken activist and suffragist, most famous nowadays for her short story “The Yellow Wallpaper.” As a writer, she was stunningly prolific. She founded &lt;i&gt;The Forerunner&lt;/i&gt;, a monthly magazine for which she personally wrote every article, story, and poem. Because she chose to run no advertisements, she covered the cost of printing the magazine herself. In contrast to many women’s publications of the day, Gilman advocated for equal rights and expanded social roles for women.&lt;/p&gt;
