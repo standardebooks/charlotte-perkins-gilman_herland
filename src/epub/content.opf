@@ -30,8 +30,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Herland</dc:title>
 		<meta property="file-as" refines="#title">Herland</meta>
-		<dc:subject id="subject-1">Utopias -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Women -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Utopias--Fiction</dc:subject>
+		<dc:subject id="subject-2">Women--Fiction</dc:subject>
 		<dc:subject id="subject-3">Utopian fiction</dc:subject>
 		<dc:subject id="subject-4">Black humor</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
